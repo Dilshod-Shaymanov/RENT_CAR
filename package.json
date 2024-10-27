@@ -1,0 +1,17 @@
+{
+  "name": "uyga_vazifa",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "config": "^3.3.12",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.3"
+  }
+}
